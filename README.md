@@ -38,14 +38,13 @@ O projeto do jogo foi desenvolvido na disciplina de Sistemas Embarcados I da Uni
 ## Instruções de Execução
 
 1. Siga as intruções do pdf para instalar e configurar o seu DOSBox.
-2. Solte os arquivos na pasta criada.
-3. Execute o DOSBox e monte o local em que a pasta foi criada.
-4. Execute o comando: "make.bat"
-5. Espere compilar todos os arquivos, após isso, pressione enter para iniciar o jogo.
-6. Utilize as teclas "a" e "d" para mover a base.
-7. Pressione "p" para pausar o jogo e "p" novamente para retomar.
-8. Pressione "q" para finalizar o jogo a qualquer momento.
-9. Se a bola cair fora da tela, siga as instruções para reiniciar (tecla "y") ou sair do jogo (tecla "n").
+2. Baixe o arquivo .zip do repositório.
+3. Extraia ele no seu computador, e copie todos os arquivos de dentro dele, e coloque dentro da pasta que você criou na raiz.
+4. Em seguida, extraia a pasta do frasm que ainda vai estar zipada.
+5. Execute o DOSBox e monte o local em que a pasta foi criada.
+6. Execute o comando: "make.bat".
+7. Espere compilar todos os arquivos, após isso, digite "main" e pressione enter.
+8. Agora o seu jogo deve rodar normalmente.
 
 ## Contribuições
 Contribuições são bem-vindas! Se você identificar bugs, problemas de desempenho ou tiver sugestões para melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
