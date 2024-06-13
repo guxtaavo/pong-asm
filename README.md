@@ -53,4 +53,8 @@ Contribuições são bem-vindas! Se você identificar bugs, problemas de desempe
 
 Camila Audibert e Gustavo Nunes Lopes
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE.md para mais detalhes.
+
 Divirta-se jogando e quebrando todos os blocos!
